@@ -1,0 +1,108 @@
+body{
+    margin: 0;
+    background-color: #f34646;
+    font: 1em Cursive, Cambria, Georgia, Times, serif;
+    font:rgb(70, 4, 4);
+}
+
+h1 {
+    color:darkblue;
+    text-decoration-line: underline;
+    font: 3em Bradley, Cambria, Georgia, Times, serif;
+}
+
+h2 {
+    color: purple;
+    text-decoration-line: underline;
+}   
+ul {
+    list-style-type: none;
+    margin-right:auto;
+}
+
+a {
+    color:#05ff3b;
+    text-decoration: none;
+}
+
+button {
+    background-color: blue;
+    color:rgb(70, 4, 4);
+}
+
+button:hover {
+    background-color: blue;
+}
+
+img {
+    display: block;
+}
+
+hr {
+    width: 50%;
+}
+
+.peacock {
+    margin: 5px;
+    float: left;
+    border-radius: 20%;
+    width: 15%;
+}
+
+
+.selfie {
+    margin-left: auto;
+    border-radius: 100%;
+}
+
+.div_images {
+    float: left;
+    width: 20%;
+    position:sticky;
+}
+
+
+
+.center{
+    text-align: center;
+}
+
+.top {
+    background-color:rgb(35, 170, 248);
+    width: 60%;
+    border: solid 5px;
+    border-color:black;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.languages {
+    margin: 5px;
+    background-color: #47ee6b;
+    width: 60%;
+    border: solid 5px;
+    border-color:black;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.experience {
+    margin: 5 px;
+    background-color: rgb(178, 109, 243);
+    width: 60%;
+    padding: 10px;
+    border: solid 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bottom {
+    margin: 5 px;
+    background-color: none;
+    width: 100%;
+    border: none;
+    margin-left: auto;
+    margin-right: auto;
+}
